@@ -9,7 +9,7 @@ function App() {
         <p>
           My aplication in Rreact.js <br></br>
           Edit <code>src/App.js</code> and save to reload.<br></br>
-          Copy right reservad by Vinicius Nascimento Ribeiro @2024
+          Copy right reservad by Vinicius Ribeiro @2024
         </p>
         <a
           className="App-link"
